@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a Machine Learning developer, based in Nepal. With a passion in using data and machine learning tools to address real-world issues.
+Hi, I am a Machine Learning developer from Nepal, with a passion in using data and machine learning tools to address real-world issues.
 
 
 ## 🌐 Socials:
