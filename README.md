@@ -17,11 +17,3 @@ Hi, I am a Machine Learning developer from Nepal, with a passion in using data a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
