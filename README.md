@@ -44,13 +44,13 @@
   <tr>
     <td>
       <b>GitHub Stats</b>
-      <a href="http://www.github.com/Fatma-Nur-Azman">
+      <a href="https://github.com/MannShrestha/MannShrestha/">
         <img src="https://github-readme-stats.vercel.app/api?username=MannShrestha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=F0F0F0&hide_border=true&show_icons=true" alt="Fatma-Nur-Azman's GitHub stats" />
       </a>
     </td>
     <td>
       <b>GitHub Streak</b>
-      <a href="http://www.github.com/Fatma-Nur-Azman">
+      <a href="https://github.com/MannShrestha/MannShrestha/">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MannShrestha&stroke=ffffff&background=F0F0F0&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
       </a>
     </td>
