@@ -45,7 +45,7 @@
     <td>
       <b>GitHub Stats</b>
       <a href="https://github.com/MannShrestha/MannShrestha/">
-        <img src="https://github-readme-stats.vercel.app/api?username=MannShrestha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=F0F0F0&hide_border=true&show_icons=true" alt="Fatma-Nur-Azman's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MannShrestha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=F0F0F0&hide_border=true&show_icons=true" alt="Mann GitHub stats" />
       </a>
     </td>
     <td>
