@@ -18,7 +18,7 @@
 
 * MLOps
   
-* 🧠  Currently I'm learning Generative AI
+* 🧠  Currently I'm learning Generative AI, Big Data
   
 
 
